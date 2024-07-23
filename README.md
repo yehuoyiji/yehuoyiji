@@ -3,7 +3,7 @@
 - :rainbow: 个人博客：<a href="https://yehuo.icu" target="_blank">野火一季的个人博客</a>
 - 🎮 我喜欢的游戏有 [`CS-GO`](https://www.csgo.com.cn/) [`Clash Royale`](https://supercell.com/en/games/clashroyale/) [`蛋壳特攻队`](https://danke.habby.cn/) [`炉石传说`](http://www.hearthstone.com.cn/)
 - 🎧 我喜欢的音乐有 [`我的711`](https://music.163.com/#/song?id=1335548766) [`河流`](https://music.163.com/#/song?id=2081795112) [`山雀`](https://music.163.com/#/song?id=1805289414)
-- 😎 我擅长的领域 `吉他🎸` `音乐🎵` `游戏🎮`<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fish.png" alt="Fish" width="25" height="25" align="absmiddle" />
+- 😎 我擅长的领域 `吉他🎸` `音乐🎵` `游戏🎮` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fish.png" alt="Fish" width="25" height="25" align="absmiddle" />
 
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
@@ -88,8 +88,9 @@
 
 </div>
 
-<br>
 
+
+## 今年汇总 ✨
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=yehuoyiji&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehuoyiji&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
