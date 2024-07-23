@@ -12,7 +12,7 @@
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-    <a href="https://hhui.top/">
+    <a href="https://yehuo.icu/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=840&lines=console.log('welcome to 野火一季's github');Just Do IT!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
@@ -68,7 +68,7 @@
 ![Terminal Badge](https://img.shields.io/badge/Terminal-181717?logo=terminal&logoColor=fff&style=flat)
 ![Apple Badge](https://img.shields.io/badge/Apple-5C2D91?logo=apple&logoColor=fff&style=flat)
 ![PostMan Badge](https://img.shields.io/badge/PostMan-oriange?logo=postman&logoColor=fff&style=flat)
-<img src="https://skillicons.dev/icons?i=java,redis,vue,spring,ts,mysql,idea,webstorm,git,apple,github," /><br>
+<img src="https://skillicons.dev/icons?i=java,redis,vue,spring,ts,mysql,idea,webstorm,git,apple,github,postman" /><br>
 <!-- programming tool icon 编程工具图标
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
  -->
