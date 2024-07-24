@@ -1,7 +1,7 @@
 ##  &nbsp; 我是野火一季 :fire:
 - :zap: 双非学院本 25届毕业生 Java开发 or 什么都干？
 - :rainbow: 个人博客：<a href="https://yehuo.icu" target="_blank">野火一季的个人博客</a>
-- 🎮 我喜欢的游戏有 [`CS-GO`](https://www.csgo.com.cn/) [`Clash Royale`](https://supercell.com/en/games/clashroyale/) [`蛋壳特攻队`](https://danke.habby.cn/) [`炉石传说`](http://www.hearthstone.com.cn/)
+- 🎮 我喜欢的游戏有 [`CS-GO`](https://www.csgo.com.cn/) [`Clash Royale`](https://supercell.com/en/games/clashroyale/) [`弹壳特攻队`](https://danke.habby.cn/) [`炉石传说`](http://www.hearthstone.com.cn/)
 - 🎧 我喜欢的音乐有 [`我的711`](https://music.163.com/#/song?id=1335548766) [`河流`](https://music.163.com/#/song?id=2081795112) [`山雀`](https://music.163.com/#/song?id=1805289414)
 - 😎 我擅长的领域 `吉他🎸` `音乐🎵` `游戏🎮` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fish.png" alt="Fish" width="25" height="25" align="absmiddle" />
 
